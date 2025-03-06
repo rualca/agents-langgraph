@@ -18,7 +18,7 @@ To install the project, clone the repository and install the necessary dependenc
 ```bash
 git clone https://github.com/yourusername/agents-langgraph.git
 cd agents-langgraph
-npm install
+pip install -r requirements.txt
 ```
 
 ## Contributing
